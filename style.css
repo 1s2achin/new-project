@@ -1,0 +1,314 @@
+*{
+    margin: 0;
+}
+.topbar{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.868);
+}
+
+.navigation{
+    height:100px;
+    width: 120px;
+     position: absolute;
+    left: 50px;
+    top: 0px;
+}
+.home{
+    font-size: 25px;
+    position: absolute;
+    right:500px;
+    top: 30px;
+    color: white;
+}
+.about{
+    font-size: 25px;
+    position: absolute;
+    right:400px;
+    top: 30px;
+    color: white;
+}
+.menu{
+    font-size: 25px;
+    position: absolute;
+    right:300px;
+    top: 30px;
+    color: white;
+}
+.franchise{
+    font-size: 25px;
+    position: absolute;
+    right:150px;
+    top: 30px;
+    color: white;
+}
+h1{
+    position: absolute;
+    font-weight:bold;
+    font-size: 80px;
+    font-family:cursive;
+    right: 150px;
+    top: 200px;
+    text-shadow: 5px 5px 20px rgb(83, 5, 5);
+    color: white;  
+    border-radius: 50px; 
+   
+    letter-spacing: 5px;
+}
+ .order{
+    font-size: 30px;
+    font-weight: 100;
+    position: absolute;
+    top: 350px;
+    left: 650px;
+     color: white; 
+     background-color: palevioletred;
+    padding: 1px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 10px;
+    
+} 
+.order:hover{
+transform: scale(0.9);
+}
+
+h2{
+    position: absolute;
+    font-size: 70px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top:  ;
+    left:550px;
+    padding: 50px;
+    
+}
+
+.secondBlock{
+    position: absolute;
+    top:900px;
+    left: 70px;
+}
+#first-letter{
+    font-size: 20px;
+    position: absolute;
+    left:10px ;
+    bottom: 70px;
+    
+}
+
+.secondBlock1{
+    position: absolute;
+    top:900px;
+    left: 340px;
+}
+#second-letter{
+    font-size: 20px;
+    position: absolute;
+    left:30px ;
+    bottom:60px;
+}
+
+.secondBlock2{
+    position: absolute;
+    top:900px ;
+    left:610px ;
+}
+#third-letter{
+    font-size:20px ;
+    position: absolute;
+    left:80px;
+    bottom:60px ;
+}
+
+.secondBlock3{
+    position: absolute;
+    top: 900px;
+    left: 950px;
+}
+#fourth-letter{
+    font-size: 20px;
+    position: absolute;
+    left: 10px;
+    bottom: 60px;
+}
+.secondBlock4{
+    position: absolute;
+    top: 900px;
+    left:1250px;
+}
+#fifth-letter{
+    font-size: 20px;
+    position: absolute;
+    left: 20px;
+    bottom: 60px;
+
+}
+h3{
+    position: absolute;
+    font-size: 90px;
+    font-family:cursive;
+    right: 250px;
+    top: 2000px;
+    text-shadow: 5px 5px 20px rgb(83, 5, 5);
+    color: white;  
+    border-radius: 50px; 
+    /* box-shadow: 5px 5px 7px black; */
+    letter-spacing: 5px;
+}
+h4{
+    position: absolute;
+    font-size: 100px;
+    font-family:cursive;
+    left:190px;
+    top: 2700px;
+    text-shadow: 5px 5px 20px rgb(83, 5, 5);
+    color: white;  
+    border-radius: 50px; 
+    /* box-shadow: 5px 5px 7px black; */
+    letter-spacing: 5px;
+
+}
+.para{
+    font-size:30px;
+    text-align : center;
+    color: white;
+    position: absolute;
+    top:400px;
+    left : 750px;
+}
+#appStore{
+    position: absolute;
+    bottom:155px ;
+    left:500px ;
+}
+#appStore:hover{
+    transform: scale(0.9);
+}
+#playstore{
+    position: absolute;
+    bottom:150px ;
+    left:780px ;
+}
+#playstore:hover{
+    transform: scale(0.9);
+}
+h5{
+    font-size: 70px;
+    font-family:serif;
+    position: absolute;
+    right:500px;
+    padding: 40px;
+    color: black;
+}
+.contact{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    position: absolute;
+    top:3300px; 
+    left:100px ;
+    color:black;
+
+}
+.contact2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    font-size: 40px;
+    position: absolute;
+    top:3300px;
+    left:400px ;
+}
+.mail{
+    display:inline-block;
+    position: absolute;
+    top:3390px ;
+    left:50px ; 
+}
+.msg{
+    font-size: 20px;
+    display:inline-block;
+    position: absolute;
+    top:3400px ;
+    left:110px ; 
+
+}
+.phone{
+    display:inline-block;
+    position: absolute;
+    top:3480px;
+    left:60px ; 
+}
+.phn{
+    font-size: 20px;
+    display:inline-block;
+    position: absolute;
+    top:3480px ;
+    left:100px ; 
+}
+.list{
+    font-size: 20px;
+    position: absolute;
+    top: 3400px;
+    left:350px ;
+}
+
+
+
+.lastpara{
+    text-align:right;
+text-indent: 20%;
+    font-size: 20px;
+    position: relative ;
+    bottom:320px;
+    left: 1px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 80px;
+    padding-inline-start: 10px;
+}
+
+
+ 
+
+#first{
+    height: px;
+    position: absolute;
+    bottom: 80px;
+    right:800px ;
+}
+.second{
+    height: 60px;
+    position: absolute;
+    bottom: 80px;
+    right:700px ;
+}
+input[type="email"]{
+    position: absolute;
+    bottom: 300px;
+    right: 500px;
+    height: 40px;
+    width: 2000px;
+    border-radius: 30px;
+}
+#play{
+    position:absolute;
+    right: 480px;
+    bottom: 280px;
+    height: 80px;
+    width: 100px;
+}
+#play:hover{
+    transform: scale(0.9);
+}
+.sachin{
+    height: 35px;
+    position:relative;
+    text-align:center;
+    width: 100px;
+    background: solid pink;
+    border-radius: 10pxx;
+}
+.sachin{
+    
+}
+
+
